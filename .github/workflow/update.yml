@@ -54,11 +54,7 @@ jobs:
         run: |
           git config user.name  "Streamic Bot"
           git config user.email "bot@thestreamic.in"
-          # Stage docs/ (Pages source) + root mirrors + data
           git add docs/ data/*.json || true
-          # Also stage root-level mirrors (serves if Pages is set to root /)
-          git add *.html *.xml *.txt style.css main.js CNAME .nojekyll 2>/dev/null || true
-          git add articles/ assets/ 2>/dev/null || true
           if git diff --cached --quiet; then
             echo "No changes."
           else
