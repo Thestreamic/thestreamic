@@ -1,0 +1,408 @@
+{
+  "keyword_pools": [
+    [
+      [
+        "smpte",
+        "st 2110",
+        "ip routing",
+        "nmos",
+        "infrastructure",
+        "network",
+        "fiber",
+        "ethernet",
+        "rack"
+      ],
+      [
+        "photo-1558494949-ef010cbdcc31",
+        "photo-1558618666-fcd25c85cd64",
+        "photo-1545987796-200677ee1011",
+        "photo-1451187580459-43490279c0fa",
+        "photo-1544197150-b99a580bb7a8"
+      ]
+    ],
+    [
+      [
+        "artificial intelligence",
+        "ai-powered",
+        "machine learning",
+        "neural",
+        "generative ai",
+        "automation",
+        "deep learning"
+      ],
+      [
+        "photo-1677442135703-1787eea5ce01",
+        "photo-1620712943543-bcc4688e7485",
+        "photo-1655635643532-fa9ba2648cbe",
+        "photo-1635070041078-e363dbe005cb",
+        "photo-1655635949212-1d8f4f103ea1"
+      ]
+    ],
+    [
+      [
+        "broadcast camera",
+        "cinema camera",
+        "camera",
+        "lens",
+        "4k camera",
+        "8k",
+        "sensor"
+      ],
+      [
+        "photo-1516035069371-29a1b244cc32",
+        "photo-1574717024653-61fd2cf4d44d",
+        "photo-1605116868827-a9e8b3028b99",
+        "photo-1551269901-5c2d5b2e3b24",
+        "photo-1567095761054-7003afd47020"
+      ]
+    ],
+    [
+      [
+        "cloud production",
+        "cloud storage",
+        "cloud native",
+        "aws",
+        "azure",
+        "cloud platform",
+        "saas",
+        "data center"
+      ],
+      [
+        "photo-1531297484001-80022131f5a1",
+        "photo-1488229297570-58520851e868",
+        "photo-1558494949-ef010cbdcc31",
+        "photo-1573164713988-8665fc963095",
+        "photo-1580584126903-c17d41830450"
+      ]
+    ],
+    [
+      [
+        "streaming",
+        "ott",
+        "vod",
+        "svod",
+        "hls",
+        "low latency",
+        "delivery",
+        "cdn"
+      ],
+      [
+        "photo-1616401784845-180882ba9ba8",
+        "photo-1611532736597-de2d4265fba3",
+        "photo-1593642632559-0c6d3fc62b89",
+        "photo-1574717025058-97e3af4ef9b5",
+        "photo-1492619375914-88005aa9e8fb"
+      ]
+    ],
+    [
+      [
+        "encoder",
+        "encoding",
+        "transcod",
+        "codec",
+        "hevc",
+        "av1",
+        "mpeg",
+        "compression"
+      ],
+      [
+        "photo-1574717024653-61fd2cf4d44d",
+        "photo-1598488035139-bdbb2231ce04",
+        "photo-1504384308090-c894fdcc538d",
+        "photo-1518770660439-4636190af475",
+        "photo-1560472354-b33ff0c44a43"
+      ]
+    ],
+    [
+      [
+        "graphics",
+        "motion graphics",
+        "virtual set",
+        "ar",
+        "augmented reality",
+        "lower third",
+        "real-time render"
+      ],
+      [
+        "photo-1547658719-da2b51169166",
+        "photo-1504639725590-34d0984388bd",
+        "photo-1518770660439-4636190af475",
+        "photo-1561736778-92e52a7769ef",
+        "photo-1634153821015-5a2cc1b70bba"
+      ]
+    ],
+    [
+      [
+        "playout",
+        "master control",
+        "automation",
+        "channel in a box",
+        "ciab",
+        "on-air",
+        "transmission",
+        "broadcast automation"
+      ],
+      [
+        "photo-1478737270239-2f02b77fc618",
+        "photo-1590602847861-f357a9332bbc",
+        "photo-1612420696760-0a0f34d3e7d0",
+        "photo-1525059696034-4967a8e1dca2",
+        "photo-1461749280684-dccba630e2f6"
+      ]
+    ],
+    [
+      [
+        "newsroom",
+        "nrcs",
+        "news production",
+        "journalist",
+        "reporter",
+        "anchor",
+        "breaking news"
+      ],
+      [
+        "photo-1504711434969-e33886168f5c",
+        "photo-1493863641943-9b68992a8d07",
+        "photo-1585829365295-ab7cd400c167",
+        "photo-1557804506-669a67965ba0",
+        "photo-1432821596592-e2c18b78144f"
+      ]
+    ],
+    [
+      [
+        "post-production",
+        "editing",
+        "nle",
+        "davinci",
+        "premiere",
+        "media composer",
+        "avid",
+        "colour grade"
+      ],
+      [
+        "photo-1572044162444-ad60f128bdea",
+        "photo-1605106702734-205df224ecce",
+        "photo-1574717025058-97e3af4ef9b5",
+        "photo-1605116868827-a9e8b3028b99",
+        "photo-1489875347897-49f64b51c1f8"
+      ]
+    ],
+    [
+      [
+        "audio",
+        "mixer",
+        "console",
+        "lawo",
+        "calrec",
+        "soundcraft",
+        "dolby",
+        "spatial audio",
+        "mixing"
+      ],
+      [
+        "photo-1511379938547-c1f69419868d",
+        "photo-1598520106830-8c45c2035460",
+        "photo-1471478331149-c72f17e33c73",
+        "photo-1520523839897-bd0b52f945a0",
+        "photo-1516916759473-600c07bc12d4"
+      ]
+    ],
+    [
+      [
+        "wireless",
+        "lectrosonics",
+        "sennheiser",
+        "shure",
+        "5g",
+        "satellite",
+        "uplink",
+        "rf",
+        "cellular"
+      ],
+      [
+        "photo-1526374965328-7f61d4dc18c5",
+        "photo-1581092583537-20d51b4b4f1b",
+        "photo-1598520106830-8c45c2035460",
+        "photo-1605196560547-b2f7281b7355",
+        "photo-1558618666-fcd25c85cd64"
+      ]
+    ],
+    [
+      [
+        "storage",
+        "nas",
+        "archive",
+        "lto",
+        "mam",
+        "media asset",
+        "dam",
+        "nearline"
+      ],
+      [
+        "photo-1560472354-b33ff0c44a43",
+        "photo-1497366216548-37526070297c",
+        "photo-1465343161283-c1959138ddaa",
+        "photo-1504384308090-c894fdcc538d",
+        "photo-1620714223084-8fcacc2386f7"
+      ]
+    ],
+    [
+      [
+        "live event",
+        "live sports",
+        "ob van",
+        "outside broadcast",
+        "stadium",
+        "esports",
+        "sports production"
+      ],
+      [
+        "photo-1560272564-c83b66b1ad12",
+        "photo-1471295253337-3ceaaedca402",
+        "photo-1492619375914-88005aa9e8fb",
+        "photo-1540747913346-19212a4a3bdf",
+        "photo-1574629810360-7efbbe195018"
+      ]
+    ],
+    [
+      [
+        "nab show",
+        "nab 2026",
+        "ibc show",
+        "ibc 2026",
+        "trade show",
+        "expo",
+        "broadcast expo"
+      ],
+      [
+        "photo-1540575467063-178a50c2df87",
+        "photo-1492619375914-88005aa9e8fb",
+        "photo-1568992687947-868a62a9f521",
+        "photo-1505373877841-8d25f7d46678",
+        "photo-1497366754035-f200968a6e72"
+      ]
+    ],
+    [
+      [
+        "security",
+        "cybersecurity",
+        "zero trust",
+        "ransomware",
+        "breach",
+        "vulnerability",
+        "firewall"
+      ],
+      [
+        "photo-1550751827-4bd374c3f58b",
+        "photo-1563206767-5b18f218e8de",
+        "photo-1518770660439-4636190af475",
+        "photo-1555949963-ff9fe0c870eb",
+        "photo-1558618666-fcd25c85cd64"
+      ]
+    ],
+    [
+      [
+        "appoints",
+        "appoint",
+        "ceo",
+        "chief",
+        "vp ",
+        "vice president",
+        "director",
+        "joins",
+        "hired",
+        "funding",
+        "investment"
+      ],
+      [
+        "photo-1507679799987-c73779587ccf",
+        "photo-1553877522-43269d4ea984",
+        "photo-1573496359142-b8d87734a5a2",
+        "photo-1560250097-0b93528c311a",
+        "photo-1600880292203-757bb62b4baf"
+      ]
+    ],
+    [
+      [
+        "studio",
+        "broadcast facility",
+        "control room",
+        "production suite",
+        "broadcast centre"
+      ],
+      [
+        "photo-1598488035139-bdbb2231ce04",
+        "photo-1574717024653-61fd2cf4d44d",
+        "photo-1530026405186-ed1f139313f8",
+        "photo-1598300042247-d088f8ab3a91",
+        "photo-1516321165247-4aa89a48be55"
+      ]
+    ]
+  ],
+  "cat_pools": {
+    "streaming": [
+      "photo-1616401784845-180882ba9ba8",
+      "photo-1611532736597-de2d4265fba3",
+      "photo-1574717025058-97e3af4ef9b5",
+      "photo-1492619375914-88005aa9e8fb",
+      "photo-1593642632559-0c6d3fc62b89",
+      "photo-1520523839897-bd0b52f945a0"
+    ],
+    "cloud": [
+      "photo-1531297484001-80022131f5a1",
+      "photo-1488229297570-58520851e868",
+      "photo-1573164713988-8665fc963095",
+      "photo-1580584126903-c17d41830450",
+      "photo-1544197150-b99a580bb7a8",
+      "photo-1451187580459-43490279c0fa"
+    ],
+    "ai-post-production": [
+      "photo-1677442135703-1787eea5ce01",
+      "photo-1620712943543-bcc4688e7485",
+      "photo-1572044162444-ad60f128bdea",
+      "photo-1605106702734-205df224ecce",
+      "photo-1574717025058-97e3af4ef9b5",
+      "photo-1655635643532-fa9ba2648cbe"
+    ],
+    "graphics": [
+      "photo-1504639725590-34d0984388bd",
+      "photo-1547658719-da2b51169166",
+      "photo-1518770660439-4636190af475",
+      "photo-1561736778-92e52a7769ef",
+      "photo-1634153821015-5a2cc1b70bba",
+      "photo-1593642632559-0c6d3fc62b89"
+    ],
+    "playout": [
+      "photo-1478737270239-2f02b77fc618",
+      "photo-1590602847861-f357a9332bbc",
+      "photo-1612420696760-0a0f34d3e7d0",
+      "photo-1525059696034-4967a8e1dca2",
+      "photo-1461749280684-dccba630e2f6",
+      "photo-1526374965328-7f61d4dc18c5"
+    ],
+    "infrastructure": [
+      "photo-1558494949-ef010cbdcc31",
+      "photo-1545987796-200677ee1011",
+      "photo-1451187580459-43490279c0fa",
+      "photo-1558618666-fcd25c85cd64",
+      "photo-1544197150-b99a580bb7a8",
+      "photo-1504384308090-c894fdcc538d"
+    ],
+    "newsroom": [
+      "photo-1504711434969-e33886168f5c",
+      "photo-1493863641943-9b68992a8d07",
+      "photo-1585829365295-ab7cd400c167",
+      "photo-1557804506-669a67965ba0",
+      "photo-1432821596592-e2c18b78144f",
+      "photo-1503428593586-e225b39bddfe"
+    ],
+    "featured": [
+      "photo-1598488035139-bdbb2231ce04",
+      "photo-1530026405186-ed1f139313f8",
+      "photo-1574717024653-61fd2cf4d44d",
+      "photo-1516321165247-4aa89a48be55",
+      "photo-1525059696034-4967a8e1dca2",
+      "photo-1490645935967-10de6ba17061"
+    ]
+  }
+}
